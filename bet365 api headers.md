@@ -3,10 +3,10 @@ bet365 place and Bet365 API
 
 
 
-我们提供bet365数据接口，下单接口，下单请求头加密已破解，您可以提供您想要的接口，就可以实现策略开发。定制您需要的软件，请联系我们
-邮箱：1091171610@qq.com
-电报：yihio lu
+We provide bet365 data interface, order interface, order request header encryption has been cracked, you can provide the interface you want, you can achieve strategy development. Customize the software you need, Please contact us
+email: 1091171610@qq.com
+telegram: yihio lu
 
-我们提供bet365数据，下单接口，可以下单请求头头破解，提供你想要的接口，可以实现策略开发。请定制你需要的软件，联系我们。
-邮箱：1091171610@qq.com
-电报：yihio lu
+我们提供bet365 数据接口，下单接口，下单请求头加密已经破解，可以提供你想要的接口，可以实现策略开发。定制你需要的软件,请联系我们.
+email: 1091171610@qq.com
+telegram: yihio lu
